@@ -7,9 +7,9 @@
     * [Setup](https://github.com/cnryzgn/MERN-Blog#Setup)
 
 ## Screenshots
-    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/home.png)
-    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/post.png)
-    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/create-post.png)
+    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/home.jpg)
+    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/post.jpg)
+    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/create-post.jpg)
 
 ## Technologies
     * React
