@@ -2,14 +2,14 @@
 > A blog website which you can post your posts.
 
 ## Content Links
-    * [Screenshots](https://github.com/cnryzgn/MERN-Blog#Screenshots)<br>
-    * [Technologies](https://github.com/cnryzgn/MERN-Blog#Technologies)<br>
-    * [Setup](https://github.com/cnryzgn/MERN-Blog#Setup)
+* [Screenshots](https://github.com/cnryzgn/MERN-Blog#Screenshots)<br>
+* [Technologies](https://github.com/cnryzgn/MERN-Blog#Technologies)<br>
+* [Setup](https://github.com/cnryzgn/MERN-Blog#Setup)
 
 ## Screenshots
-    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/home.jpg)
-    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/post.jpg)
-    ![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/create-post.jpg)
+![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/home.jpg)
+![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/post.jpg)
+![](https://github.com/cnryzgn/MERN-Blog/blob/main/screenshots/create-post.jpg)
 
 ## Technologies
     * React
